@@ -19,6 +19,8 @@ In today’s hyperconnected world, both AI systems and decentralized application
   Built with the vision of **AI agents as first-class blockchain citizens**, WETECHAI supports real-time decision-making by integrating intelligent indexing, stream processing, and event triggers — enabling AI agents to read, react, and reason autonomously across chain events.
 
 ---
+![image](https://github.com/user-attachments/assets/dbcda308-25df-4d83-b1dd-a5df68d6a680)
+
 
 ### 🧩 Key Theoretical Foundations
 
@@ -54,6 +56,8 @@ In today’s hyperconnected world, both AI systems and decentralized application
    WETECHAI enables chains to prove sustainability credentials by tracking and certifying energy usage, carbon offsets, and ecological KPIs using verifiable data registries.
 
 ---
+![image](https://github.com/user-attachments/assets/82ecf29c-cb58-4176-ad57-2d7bbfe73d7a)
+
 
 ### 🌌 Vision: A New Epoch of Digital Evolution
 
@@ -195,6 +199,8 @@ carv = "https://rpc.testnet.carv.io/rpc"
 
 
 ---
+
+![image](https://github.com/user-attachments/assets/d944bec3-b6f0-438f-b9fc-6ab49aaa228e)
 
 ## 🧬 Theoretical Foundations of WETECHAI
 
@@ -356,6 +362,8 @@ WETECHAI redefines blockchain as a **context-aware knowledge substrate**, enabli
 Here, WETECHAI acts as the **cross-chain nervous system**, while CARV serves as the **verified memory and identity base**.
 
 ---
+![image](https://github.com/user-attachments/assets/821bf9a9-3249-49c6-a292-8d615de73232)
+
 
 ## 🔮 Future Vision: A Regenerative Cognitive Economy
 
