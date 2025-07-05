@@ -1,0 +1,24 @@
+{
+  "name": "@onchainsupply/identifiers",
+  "version": "1.0.2",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist/**/*",
+    "contracts/**/*.sol"
+  ],
+  "scripts": {
+    "build": "hardhat compile && typechain --target ethers-v6 --out-dir dist/types",
+    "prepare": "npm run build",
+    "prepack": "npm run build",
+    "deploy:lucid": "npx hardhat ignition deploy ./ignition/modules/Lucid.js --network"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7"
+  }
+}
